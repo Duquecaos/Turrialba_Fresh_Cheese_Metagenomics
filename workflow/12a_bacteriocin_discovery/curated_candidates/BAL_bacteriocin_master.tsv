@@ -1,0 +1,16 @@
+MAG	taxon	contig_or_orf	antiSMASH	BAGEL4	structural_status	final_classification
+L1__L1_bin.86	Leuconostoc carnosum	NA	negative	negative	NA	Negative under both methods
+L3__L3_bin.7	Leuconostoc falkenbergense	NA	negative	negative	NA	Negative under both methods
+L2__L2_maxbin2.004_sub	Lactococcus petauri	k141_215282	RaS-RiPP	Sactipeptide	precursor unresolved	Concordant RiPP region
+L2__L2_maxbin2.004_sub	Lactococcus petauri	k141_179388	Lactococcin-like	not detected at BAGEL4 AOI threshold	intact GG precursor	antiSMASH-only Lactococcin-like candidate
+L3__concoct_29	Lactococcus_A laudensis	k141_46847/orf00030	negative	Bacteriocin_IIc; double-glycine leader	intact precursor	Strong BAGEL4-only class-II candidate
+L3__concoct_29	Lactococcus_A laudensis	k141_46847/orf00027	negative	Enterocin_X_chain_beta-like	no clear GG leader	Secondary candidate
+L3__concoct_29	Lactococcus_A laudensis	k141_84984/sORF_2	negative	leaderLanBC; lantipeptide-like	47-aa cysteine-rich precursor	BAGEL4-only lantipeptide-like candidate
+L3__concoct_29	Lactococcus_A laudensis	k141_22939	negative	Patellin-like AOI	precursor unresolved	AOI without resolved precursor
+L3__concoct_29	Lactococcus_A laudensis	k141_83650	RiPP-like	negative	precursor unresolved	antiSMASH-only RiPP region
+M2__M2_maxbin2.004	Lactococcus lactis	k141_64662/orf00015	Lactococcin	Lactococcin; Bacteriocin_IIc; double-glycine leader	intact precursor	Strong Lactococcin-like candidate
+M2__M2_maxbin2.004	Lactococcus lactis	k141_78158/orf00001	Lactococcin	Lactococcin; Bacteriocin_IIc; double-glycine leader	intact precursor	Strong Lactococcin-like candidate
+M2__M2_maxbin2.004	Lactococcus lactis	k141_64662/orf00009	Lactococcin	Lactococcin_B-like	premature stop	Read-supported interrupted lcnB-like locus
+M2__M2_maxbin2.004	Lactococcus lactis	k141_25580/orf00005	negative	Lactococcin-like	no class-II leader resolved	Secondary BAGEL4-only candidate
+M2__M2_maxbin2.004	Lactococcus lactis	k141_37704	RaS-RiPP	Sactipeptide	precursor unresolved	Concordant RiPP region
+M2__M2_maxbin2.004	Lactococcus lactis	k141_87509	RaS-RiPP	Sactipeptide	precursor unresolved	Concordant RiPP region

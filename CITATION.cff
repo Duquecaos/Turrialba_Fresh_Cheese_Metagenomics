@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite this repository and the corresponding thesis or associated publication when available."
+
+title: "Turrialba Fresh-Cheese Shotgun Metagenomics Workflow"
+
+type: software
+
+authors:
+  - given-names: "Randall"
+    family-names: "Bonilla-Sandoval"
+
+version: "1.0.0"
+
+date-released: "2026-10-06"
+
+abstract: >-
+  Reproducible computational workflow for shotgun metagenomic
+  characterization of fresh cheese produced in Santa Cruz de Turrialba,
+  Costa Rica. The workflow includes preprocessing, bovine host-read
+  depletion, producer-level coassembly, multi-binner MAG reconstruction,
+  MAG quality control and dereplication, functional annotation,
+  genome-resolved ecology, bacteriocin-oriented analyses, resistome,
+  virome, mobilome, virulence-associated screening, 16S rRNA loci
+  recovered from shotgun assemblies, read-level taxonomic profiling,
+  and targeted validation of selected pathogen-associated taxonomic
+  signals.
+
+keywords:
+  - shotgun metagenomics
+  - fresh cheese
+  - metagenome-assembled genomes
+  - MAGs
+  - microbiota
+  - bacteriocins
+  - lactic acid bacteria
+  - food microbiology
+  - Turrialba
+  - Costa Rica
+
+license: MIT
+
+repository-code: "https://github.com/Duquecaos/Turrialba_Fresh_Cheese_Metagenomics"

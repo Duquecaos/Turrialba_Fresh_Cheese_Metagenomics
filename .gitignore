@@ -1,0 +1,25 @@
+# Local configuration
+config/config.sh
+
+# Scheduler logs
+logs/
+*.out
+*.err
+
+# Python
+__pycache__/
+*.py[cod]
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS/editor files
+.DS_Store
+*~
+*.swp
+
+# Generated MDMcleaner compatibility source
+patches/mdmcleaner-0.8.7/read_gtdb_taxonomy.py
+patches/mdmcleaner-0.8.7/__pycache__/
